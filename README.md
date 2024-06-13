@@ -96,7 +96,4 @@ python3 bot.py
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
-
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [LXR AMAL](https://t.me/malayalammoviesmmms)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [MM MOVIE GRP](https://t.me/malayalammoviesmms)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [MM OTT](https://t.me/+0uC-iq68FaFjZGNl)
+                                               
